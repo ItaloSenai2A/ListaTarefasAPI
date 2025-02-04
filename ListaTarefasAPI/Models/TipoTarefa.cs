@@ -2,7 +2,7 @@
 {
     public class TipoTarefa
     {
-        public int Id { get; set; }
+        public int TipoTarefaId { get; set; }
         public string Tipo { get; set; }
     }
 }

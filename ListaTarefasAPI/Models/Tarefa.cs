@@ -7,5 +7,7 @@
         public bool Concluida { get; set; }
         public int TipoTarefaId { get; set; }
         public TipoTarefa? TipoTarefa { get; set; }
+
     }
 }
+
